@@ -22,8 +22,14 @@ https://github.com/user-attachments/assets/28462657-ca1f-451f-ad21-48a235a86530
 - Matplotlib
 - Tkinter
 
+
 ### UI Features
 -	Zoom and Pan
 -	Undo/Redo Functionality
 -	Extract Palette
 -	Interactive Buttons
+
+
+another sample:
+<img width="1238" height="812" alt="kmeans-thumbnail" src="https://github.com/user-attachments/assets/3f21b61b-dd04-4508-bd32-192840ec289b" />
+
